@@ -1,1 +1,1 @@
-
+Simple project to run server with mutual tls auth. The client needs to send a certificate for the ssl handshake to succeed. Look in certs/create.sh for an example of how to create certs to run this code
